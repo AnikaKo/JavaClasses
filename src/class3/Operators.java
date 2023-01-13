@@ -1,4 +1,4 @@
-package class6;
+package class3;
 
 public class Operators {
     public static void main(String[] args) {
