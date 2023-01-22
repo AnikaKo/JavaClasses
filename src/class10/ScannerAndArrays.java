@@ -19,7 +19,8 @@ public class ScannerAndArrays {
          numbers[3]=scanner.nextInt();
          numbers[2]=scanner.nextInt();
          numbers[4]=scanner.nextInt();*/
-        // below coe uses a normal for loop to ask the user for numbers and store them in the array
+        // below coe uses a no23
+        // rmal for loop to ask the user for numbers and store them in the array
         for (int i = 0; i < numbers.length; i++) {
             numbers[i]=scanner.nextInt();
         }
