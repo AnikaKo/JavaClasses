@@ -12,3 +12,4 @@ public class StringDemo2 {
         System.out.println(upperCaseLetter);
     }
 }
+
